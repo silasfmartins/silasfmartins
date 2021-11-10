@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Silas Martins 👋
 
 - 🌱 Estutando React
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/silasfmartins">
