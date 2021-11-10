@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Silas Martins 👋
 
-- 🌱 Estutando React
+- 👨‍🎓 Estutando Javascript, React, Python
+-
 
 <div align="center">
   <a href="https://github.com/silasfmartins">
