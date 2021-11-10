@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Silas Martins 👋
 
-- 👨‍🎓 Estutando Javascript, React, Python
+- 👨‍🎓 Estutando Javascript, React e Python
 - 🖥 Sou estudante no Instituto Federal de São Paulo Câmpus Pirituba
 - 📚 Tenho uma base em HTML e CSS
 
