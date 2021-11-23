@@ -16,7 +16,6 @@
   <img align="center" alt="Silas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Silas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Silas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Silas-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4E03AQEDZJ1havTvLA/profile-displayphoto-shrink_200_200/0/1627746729860?e=1641427200&v=beta&t=Z1Afd5k2qgj-WIKu6xIGhGqCAtO7hc-wxLhGiI2UG5E">
 </div>
   
 ##
