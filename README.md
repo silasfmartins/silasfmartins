@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Silas Martins 👋
 
-- 👨‍🎓 Estutando Javascript, React e Python
+- 👨‍🎓 Estutando Javascript, React e Typescript
 - 🖥 Sou estudante no Instituto Federal de São Paulo Câmpus Pirituba
-- 📚 Tenho uma base em HTML e CSS
+- 📚 Tenho uma base em HTML, CSS, Javascript, React e Typescript
 
 <div align="center">
   <a href="https://github.com/silasfmartins">
@@ -27,3 +27,4 @@
 </div>
 
 </div>
+w2
