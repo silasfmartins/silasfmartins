@@ -1,8 +1,8 @@
 # Silas Martins
 
-- 🎓 Estutando Javascript, ReactJs, Typescript e NestJs
-- 🖥 Sou estudante no Instituto Federal de São Paulo Câmpus Pirituba
-- 📚 Tenho uma base em HTML, CSS, Javascript, React e Typescript
+- 🎓 Studying Javascript, ReactJs, Typescript and NestJs.
+- 🖥 I am a student at the Federal Institute of São Paulo Campus Pirituba.
+- 📚 I have a foundation in HTML, CSS, JavaScript, React and TypeScript.
 
 <div align="center">
   <a href="https://github.com/silasfmartins">
