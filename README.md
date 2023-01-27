@@ -1,6 +1,6 @@
 # Silas Martins
 
-- 🎓 Studying Javascript, ReactJs, Typescript and NestJs.
+- 🎓 Studying Javascript, ReactJs, Typescript, Node.Js NestJs and SQL.
 - 🖥 I am a student at the Federal Institute of São Paulo Campus Pirituba.
 - 📚 I have a foundation in HTML, CSS, JavaScript, React and TypeScript.
 
