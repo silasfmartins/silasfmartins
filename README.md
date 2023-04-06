@@ -1,6 +1,6 @@
 # Silas Martins
 
-- 🎓 Studying ReactJs, Typescript, Node.Js and SQL.
+- 🎓 Studying Styled Components, ReactJs, Typescript, Node.Js and SQL.
 - 🖥 I am a student at Fatec Santana de Parnaíba
 - 📚 I have a foundation in HTML, CSS, TailwindCSS JavaScript, React and TypeScript.
 
