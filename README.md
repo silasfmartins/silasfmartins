@@ -1,7 +1,7 @@
 # Silas Martins
 
-- 🎓 Studying Javascript, ReactJs, Typescript, Node.Js NestJs and SQL.
-- 🖥 I am a student at the Federal Institute of São Paulo Campus Pirituba.
+- 🎓 Studying Javascript, ReactJs, Typescript, Node.Js and SQL.
+- 🖥 I am a student at Fatec Santana de Parnaíba
 - 📚 I have a foundation in HTML, CSS, JavaScript, React and TypeScript.
 
 <div align="center">
