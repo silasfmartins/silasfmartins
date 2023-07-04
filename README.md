@@ -2,7 +2,7 @@
 
 - 🎓 Studying Styled Components, Node.Js.
 - 🖥 I am a student at Fatec Santana de Parnaíba
-- 📚 I have a foundation in HTML, CSS, TailwindCSS JavaScript, React, TypeScript and SQL.
+- 📚 I have a foundation in HTML, CSS, TailwindCSS JavaScript, React, TypeScript, SQL, PostgreSQL Python, and C.
 
 <div align="center">
   <a href="https://github.com/silasfmartins">
@@ -19,6 +19,9 @@
   <img align="center" alt="Silas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Silas-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Silas-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Silas-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Silas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Silas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
   
 ##
