@@ -1,6 +1,6 @@
 # Silas Martins
 
-- 🎓 Studying Styled Components, Node.Js.
+- 🎓 Studying Java, Styled Components and Node.Js.
 - 🖥 I am a student at Fatec Santana de Parnaíba
 - 📚 I have a foundation in HTML, CSS, TailwindCSS JavaScript, React, TypeScript, SQL, PostgreSQL Python, and C.
 
