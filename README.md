@@ -3,7 +3,7 @@
 - 👨🏾‍💻 I'm working at Vivo (Telefônica Brasil).
 - 🎓 Studying Java, Styled Components and Node.Js.
 - 👨🏾‍🎓 I am a student at Fatec Santana de Parnaíba
-- 📚 I have a foundation in HTML, CSS, TailwindCSS, JavaScript, React, TypeScript, Java, Python, C, SQL and PostgreSQL.
+- 📚 I have a foundation in HTML, CSS, TailwindCSS, JavaScript, React, React Native, TypeScript, Java, Python, C, SQL and PostgreSQL.
 
 <div align="center">
   <a href="https://github.com/silasfmartins">
