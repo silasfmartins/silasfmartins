@@ -1,9 +1,11 @@
-# Silas Martins
+# 👨🏾‍💻 Silas Martins
 
-- 👨🏾‍💻 I'm working at Vivo (Telefônica Brasil).
-- 🎓 Studying Java, Styled Components and Node.Js.
-- 👨🏾‍🎓 I am a student at Fatec Santana de Parnaíba
-- 📚 I have a foundation in HTML, CSS, TailwindCSS, JavaScript, React, React Native, TypeScript, Java, Python, C, SQL and PostgreSQL.
+- 💼 Systems Analysis Junior at Vivo (Telefônica Brasil)
+- 🎓 Systems Analysis and Development student at Fatec Santana de Parnaíba
+- 🧠 Currently learning Playwright, Docker and DevOps practices
+- 📚 Knowledge in HTML, CSS, TailwindCSS, JavaScript, TypeScript, React, React Native, Java, Node.js, Python, C, SQL, Azure DevOps & PostgreSQL
+
+---
 
 <div align="center">
   <a href="https://github.com/silasfmartins">
@@ -24,14 +26,17 @@
   <img align="center" alt="Silas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Silas-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Silas-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Silas-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Silas-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Silas-PlayWright" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
   
 ##
   
 <div>
   <div>
-  <a href = "mailto:silas.martins2041@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/silas-martins-58b742205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/silas-martins-58b742205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="silasmartins.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 </div>
