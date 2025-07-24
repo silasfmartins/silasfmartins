@@ -21,7 +21,7 @@
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px">
   <img alt="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="TailwindCSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img alt="TailwindCSS" height="30" src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" />
   <img alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img alt="TypeScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -33,7 +33,7 @@
   <img alt="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img alt="Linux" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img alt="Docker" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img alt="Playwright" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" />
+  <img alt="Playwright" height="30" src="https://playwright.dev/img/playwright-logo.svg" />
 </div>
 
 ---
@@ -41,7 +41,7 @@
 ## 🔗 Contact
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/silas-martins" target="_blank">
+  <a href="https://www.linkedin.com/in/silas-martins-58b742205/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://silasmartins.vercel.app" target="_blank">
